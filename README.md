@@ -8,6 +8,7 @@ A ready-to-use template for Factorio mods
 #### **1.0.1 Downloading the template**
 Download the repository, unzip it, and put it in your Factorio mods directory, in your developing subfolder (any name can be used). The directory structure should look like this:
 
+```bash
   factorio
   ├── config
   ├── mods                                # main mods folder
@@ -17,10 +18,11 @@ Download the repository, unzip it, and put it in your Factorio mods directory, i
   │   ├── mod-B_1.0.0.zip                 # any mod
   │   ├── ...        
   │   └── dev                             # developing subfolder
-  │       └── factorio-mod-template       # unzipped template Template       
+  │       └── factorio-mod-template       # unzipped template       
   ├── saves
   ├── scenarios
   └── ...
+```
 
 
 #### **1.0.2 Renaming**
