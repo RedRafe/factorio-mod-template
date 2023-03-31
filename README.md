@@ -58,5 +58,3 @@ The task **`clear`** will remove any instance of matching `name` and `version` o
   - [Mod portal](https://mods.factorio.com): the official Factorio Mod Portal
 - Lua 5.2 [manual](https://www.lua.org/manual/5.2/manual.html)
 - Visual Studio Code: [setting up tasks](https://go.microsoft.com/fwlink/?LinkId=733558)
-
-`
